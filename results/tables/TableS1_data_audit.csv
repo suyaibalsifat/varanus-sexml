@@ -1,0 +1,18 @@
+Check,Result
+Animals (n),146
+Females / Males,83 / 63
+Missing values,0
+Duplicate rows,0
+max |STL-(SVL+TL)| (cm),1.4210854715202004e-14
+Rows with SW > SL (%),100.0
+"Spearman(row index, sex) [row-order leakage check]",0.057
+Robust outliers |z_MAD|>4,"{'BTC': 1, 'SVL': 2}"
+Max relative error: BTC_STL = BTC/STL,4.18e-09
+Max relative error: EEL_SL = EEL/SL,1.50e-09
+Max relative error: EEL_STL = EEL/STL,2.22e-08
+Max relative error: SL_STL = SL/STL,8.21e-09
+Max relative error: SW_STL = SW/STL,4.47e-09
+Max relative error: SW_SL = SW/SL,3.17e-10
+Max relative error: TL_STL = TL/STL,9.19e-10
+Max relative error: TW_STL = TW/STL,5.33e-09
+Max relative error: BodyCond = Weight/STL,2.93e-08

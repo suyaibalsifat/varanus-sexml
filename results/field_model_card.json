@@ -1,0 +1,14 @@
+{
+ "features": [
+  "BTC",
+  "TW"
+ ],
+ "nested_cv_auroc": [
+  0.7985228129713423,
+  0.7016875036132028,
+  0.8953581223294819
+ ],
+ "n_train": 146,
+ "trained_on": "oil palm plantations, Perak, <=5 kg skin-trade animals",
+ "warning": "Not validated externally; do not apply to animals >5 kg or other habitats."
+}

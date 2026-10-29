@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "VaranusSexML: an open workflow for uncertainty-aware machine-learning sexing of Varanus salvator from morphometrics"
+authors:
+  - family-names: "Al Sifat"
+    given-names: "Suyaib"
+    orcid: "https://orcid.org/0009-0002-3582-8353"
+    affiliation: "Department of Computer Science and Engineering, Southeast University, Dhaka, Bangladesh"
+version: "1.0.0"
+date-released: "2026-10-27"
+license: MIT
+repository-code: "https://github.com/suyaibalsifat/varanus-sexml"

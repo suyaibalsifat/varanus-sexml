@@ -1,0 +1,9 @@
+Model,Method,median rho [IQR],top-3 Jaccard,most frequent #1 feature
+LR-L2,mean |SHAP|,"0.58 [0.41, 0.72]",0.534,BTC (54% of folds)
+LR-L2,permutation,"0.38 [0.22, 0.54]",0.447,BTC (74% of folds)
+RF,mean |SHAP|,"0.68 [0.59, 0.75]",0.661,BTC (72% of folds)
+RF,permutation,"0.33 [0.19, 0.48]",0.454,BTC (88% of folds)
+XGBoost,mean |SHAP|,"0.70 [0.61, 0.78]",0.612,BTC_STL (70% of folds)
+XGBoost,permutation,"0.34 [0.16, 0.51]",0.502,BTC_STL (60% of folds)
+EBM,mean |SHAP|,"0.62 [0.52, 0.71]",0.619,BTC_STL (92% of folds)
+EBM,permutation,"0.34 [0.19, 0.51]",0.477,BTC_STL (70% of folds)

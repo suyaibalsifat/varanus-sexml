@@ -1,0 +1,10 @@
+held_out,model,AUROC [95% CI],Accuracy,"in-distribution AUROC (headline, nested CV)"
+small (n=51),"LR, all features (raw)","0.698 [0.533, 0.844]",0.647,0.601
+small (n=51),"LR, field set (2 features)","0.725 [0.545, 0.879]",0.725,0.601
+small (n=51),"RF, all features","0.469 [0.296, 0.638]",0.373,0.601
+medium (n=46),"LR, all features (raw)","0.771 [0.610, 0.921]",0.804,0.751
+medium (n=46),"LR, field set (2 features)","0.775 [0.600, 0.931]",0.783,0.751
+medium (n=46),"RF, all features","0.755 [0.578, 0.905]",0.739,0.751
+large (n=49),"LR, all features (raw)","0.856 [0.726, 0.958]",0.796,0.833
+large (n=49),"LR, field set (2 features)","0.886 [0.770, 0.976]",0.796,0.833
+large (n=49),"RF, all features","0.658 [0.487, 0.809]",0.653,0.833

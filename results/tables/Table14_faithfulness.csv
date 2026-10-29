@@ -1,0 +1,7 @@
+Model,Ranking,mean AUROC over k=0..8,AUROC after removing top-3
+LR-L2,SHAP order,0.561,0.504
+LR-L2,Permutation order,0.521,0.476
+LR-L2,Random order,0.713,0.731
+XGBoost,SHAP order,0.528,0.492
+XGBoost,Permutation order,0.478,0.461
+XGBoost,Random order,0.674,0.681
